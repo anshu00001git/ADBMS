@@ -9,3 +9,5 @@ conn = myconn.connect(
     password="sudip@123",
     database="Anshu" # Replace with your MySQL password
 )
+
+
